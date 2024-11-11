@@ -1,0 +1,11 @@
+Target: localhost (127.0.0.1)
+Report Date and Time: 2023-10-05_14-30-00
+
+Total ports scanned: 65535
+Open ports: 3
+Closed ports: 65532
+
+Open ports found:
+Port 22
+Port 80
+Port 443
